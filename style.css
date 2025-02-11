@@ -74,6 +74,7 @@ body {
   border-radius: 8px;
   margin-top: 2rem;
   display: none;
+  overflow-wrap: break-word;
 }
 
 .result-header {
