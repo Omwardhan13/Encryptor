@@ -31,7 +31,8 @@ body {
 
 .top-text {
   display: flex;
-  padding-block: 20px;
+  padding-top: 20px;
+  padding-bottom: 25px;
   justify-content: center;
   text-align: center;
 }
