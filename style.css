@@ -54,9 +54,9 @@ body {
 }
 
 .btn {
-  padding: 0.8rem 1.5rem;
+  padding: 0.8rem 1.2rem;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
   cursor: pointer;
   font-weight: 500;
   transition: transform 0.2s;
