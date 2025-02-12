@@ -54,7 +54,7 @@ function processText(encrypt) {
       console.warn('Encrypted text exceeds length constraints');
     }
   } catch (error) {
-    alert('Error processing text: ' + error.message);
+    alert('Error processing text: Enter valid text encrypted by this site only.');
   }
 }
 
